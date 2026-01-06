@@ -7,8 +7,11 @@ Perfect beginner-friendly project to practice front-end development and DOM mani
 # Features
 
 Perform basic arithmetic operations: ➕ Addition, ➖ Subtraction, ✖️ Multiplication, ➗ Division
+
 Clear and reset functionality
+
 Responsive design for desktop and mobile
+
 Simple, clean UI with interactive buttons
 
 # Technologies Used
