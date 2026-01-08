@@ -1,28 +1,32 @@
 # Simple Calculator
 
-A simple calculator built using HTML, CSS, and JavaScript.
-This project performs basic arithmetic operations with a clean and responsive user interface.
-Perfect beginner-friendly project to practice front-end development and DOM manipulation.
+# 🚀 Overview
+A simple web-based calculator application built using HTML, CSS, and JavaScript. The app allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division with a clean and interactive interface.
 
-# Features
+# 🔍 Features
+➕ Addition: Perform sum of two numbers.
 
- Perform basic arithmetic operations: ➕ Addition, ➖ Subtraction, ✖️ Multiplication, ➗ Division
- 
- Clear and reset functionality
+➖ Subtraction: Calculate difference between numbers.
 
- Responsive design for desktop and mobile
+✖️ Multiplication: Multiply two values.
 
- Simple, clean UI with interactive buttons
+➗ Division: Divide numbers with accurate results.
 
-# Technologies Used
+🧹 Clean UI: Simple, responsive, and user-friendly design.
 
- HTML5 - Structure of the calculator
+# ⚙️ How It Works
 
- CSS3 - Styling and layout (responsive design, hover effects)
+Enter numbers using the calculator buttons.
 
- JavaScript (ES6) - Logic for calculations and event handling
+Choose an arithmetic operation (+, -, ×, ÷).
 
-# How to Use
+Press = to get the result.
+
+Clear the screen with the C button to start fresh.
+
+# 🏃‍♀️ How to Run
 
 Clone the repository:
-git clone https://github.com/alledhathri/SimpleCalculator.git
+
+git clone https://github.com/alledhathri/simple-calculator.git
+
